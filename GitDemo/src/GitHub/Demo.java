@@ -6,7 +6,7 @@ public class Demo
 	{
 		
 	}
-	publi void m2()
+	public void m2()
 	{
 	}
 	
