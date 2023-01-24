@@ -6,6 +6,10 @@ public class Demo
 	{
 		
 	}
+	publi void m2()
+	{
+	}
+	
 	
   public static void main(String args[])
   {
